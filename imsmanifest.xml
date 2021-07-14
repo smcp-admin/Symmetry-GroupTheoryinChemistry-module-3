@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="XfMFAHdkjfv3B" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Module - 3</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="module_-_3_organization">
+		<organization identifier="module_-_3_organization">
+
+			<title>Module - 3</title>
+			<item identifier="A4A579D2-5AF9-412E-A8F0-3C814F1A6E24" identifierref="resource">
+				<title>Module - 3</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/img-147b48375a19dceefd215d423c3e9840ef3dcc66.png"/>
+<file href="res/data/images/img-22b02d2eaf902f29a7a2056b999ea1f66fb8e19a.png"/>
+<file href="res/data/images/img-2554630f3780ba200da224be98f75edda89544cc.png"/>
+<file href="res/data/images/img-4f396cfebda5306439b4b34f44c40a48ceab093b.PNG"/>
+<file href="res/data/images/img-6cfae3112978151335cca23b4e054a8d40cf785e.png"/>
+<file href="res/data/images/img-952ea4d234d1625e0b8a6116a43cbbe9f82b8425.png"/>
+<file href="res/data/images/img-cfc1cee07af8bf57fdd085bd7c328b8dcb95ac94.png"/>
+<file href="res/data/images/img-de03099a2206281165d6c509dc85429452334eef.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
